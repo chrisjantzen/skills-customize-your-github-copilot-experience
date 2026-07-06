@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "personal-profile-page",
+      "title": "Personal Profile Page",
+      "description": "Create a simple personal profile webpage using HTML and CSS",
+      "path": "assignments/personal-profile-page",
+      "dueDate": "2026-07-13",
+      "attachments": [
+        {
+          "name": "Starter Files",
+          "file": "index.html",
+          "type": "html"
+        },
+        {
+          "name": "Stylesheet",
+          "file": "styles.css",
+          "type": "html"
+        }
+      ]
     }
   ]
 }
